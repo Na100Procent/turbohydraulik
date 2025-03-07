@@ -1,4 +1,233 @@
 {
-  "services": {},
+ "services": {
+    "zmywanie_kranu": {
+      "name": "Zmywanie kranu",
+      "slug": "zmywanie_kranu",
+      "content": {
+        "home": "Profesjonalne zmywanie kranu!",
+        "about": "Dokładne i szybkie usuwanie zabrudzeń.",
+        "projects": "Zobacz nasze realizacje zmywania kranu!",
+        "orderUs": "Zamów usługę zmywania kranu już teraz!",
+        "reviews": "Opinie klientów o zmywaniu kranu",
+        "faq": "Jak często powinienem zmywać kran?"
+      },
+      "cities": {
+        "warszawa": {
+          "home": "Zmywanie kranu w Warszawie - szybka obsługa!",
+          "about": "Nasi specjaliści w Warszawie usuną każdy brud.",
+          "projects": "Warszawskie realizacje zmywania kranu.",
+          "orderUs": "Zarezerwuj usługę zmywania kranu.",
+          "reviews": "Warszawskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych środków?"
+        },
+        "torun": {
+          "home": "Zmywanie kranu w Toruniu - szybka obsługa!",
+          "about": "Nasi specjaliści w Toruniu usuną każdy brud.",
+          "projects": "Toruńskie realizacje zmywania kranu.",
+          "orderUs": "Zarezerwuj usługę zmywania kranu.",
+          "reviews": "Toruńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych środków?"
+        },
+        "gdynia": {
+          "home": "Zmywanie kranu w Gdyni - szybka obsługa!",
+          "about": "Nasi specjaliści w Gdyni usuną każdy brud.",
+          "projects": "Gdyńskie realizacje zmywania kranu.",
+          "orderUs": "Zarezerwuj usługę zmywania kranu.",
+          "reviews": "Gdyńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych środków?"
+        }
+      }
+    },
+    "montaz_toalety": {
+      "name": "Montaż toalety",
+      "slug": "montaz_toalety",
+      "content": {
+        "home": "Profesjonalny montaż toalety!",
+        "about": "Dokładny i szybki montaż toalet.",
+        "projects": "Zobacz nasze realizacje montażu toalet!",
+        "orderUs": "Zamów usługę montażu toalety już teraz!",
+        "reviews": "Opinie klientów o montażu toalet",
+        "faq": "Jak często powinienem serwisować toaletę?"
+      },
+      "cities": {
+        "warszawa": {
+          "home": "Montaż toalety w Warszawie - szybka obsługa!",
+          "about": "Nasi specjaliści w Warszawie zamontują każdą toaletę.",
+          "projects": "Warszawskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Warszawskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "torun": {
+          "home": "Montaż toalety w Toruniu - szybka obsługa!",
+          "about": "Nasi specjaliści w Toruniu zamontują każdą toaletę.",
+          "projects": "Toruńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Toruńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "gdynia": {
+          "home": "Montaż toalety w Gdyni - szybka obsługa!",
+          "about": "Nasi specjaliści w Gdyni zamontują każdą toaletę.",
+          "projects": "Gdyńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Gdyńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        }
+      }
+    },
+    "instalacja_prysznica": {
+      "name": "Instalacja prysznica",
+      "slug": "instalacja_prysznica",
+      "content": {
+        "home": "Profesjonalna Instalacja prysznica!",
+        "about": "Dokładny i szybki montaż toalet.",
+        "projects": "Zobacz nasze realizacje montażu toalet!",
+        "orderUs": "Zamów usługę montażu toalety już teraz!",
+        "reviews": "Opinie klientów o montażu toalet",
+        "faq": "Jak często powinienem serwisować toaletę?"
+      },
+      "cities": {
+        "warszawa": {
+          "home": "Instalacja prysznica w Warszawie - szybka obsługa!",
+          "about": "Nasi specjaliści w Warszawie zamontują każdą toaletę.",
+          "projects": "Warszawskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Warszawskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "torun": {
+          "home": "Instalacja prysznica w Toruniu - szybka obsługa!",
+          "about": "Nasi specjaliści w Toruniu zamontują każdą toaletę.",
+          "projects": "Toruńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Toruńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "gdynia": {
+          "home": "Instalacja prysznica w Gdyni - szybka obsługa!",
+          "about": "Nasi specjaliści w Gdyni zamontują każdą toaletę.",
+          "projects": "Gdyńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Gdyńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        }
+      }
+    },
+    "wymiana_pralki": {
+      "name": "Wymiana pralki",
+      "slug": "montaz_toalety",
+      "content": {
+        "home": "Profesjonalny Wymiana pralki!",
+        "about": "Dokładny i szybki montaż toalet.",
+        "projects": "Zobacz nasze realizacje montażu toalet!",
+        "orderUs": "Zamów usługę montażu toalety już teraz!",
+        "reviews": "Opinie klientów o montażu toalet",
+        "faq": "Jak często powinienem serwisować toaletę?"
+      },
+      "cities": {
+        "warszawa": {
+          "home": "Wymiana pralki w Warszawie - szybka obsługa!",
+          "about": "Nasi specjaliści w Warszawie zamontują każdą toaletę.",
+          "projects": "Warszawskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Warszawskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "torun": {
+          "home": "Wymiana pralki w Toruniu - szybka obsługa!",
+          "about": "Nasi specjaliści w Toruniu zamontują każdą toaletę.",
+          "projects": "Toruńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Toruńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "gdynia": {
+          "home": "Montaż toalety w Gdyni - szybka obsługa!",
+          "about": "Nasi specjaliści w Gdyni zamontują każdą toaletę.",
+          "projects": "Gdyńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Gdyńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        }
+      }
+    },
+    "usuniecie_usterek": {
+      "name": "Usunięcie usterek",
+      "slug": "montaz_toalety",
+      "content": {
+        "home": "Profesjonalny Usunięcie usterek!",
+        "about": "Dokładny i szybki montaż toalet.",
+        "projects": "Zobacz nasze realizacje montażu toalet!",
+        "orderUs": "Zamów usługę montażu toalety już teraz!",
+        "reviews": "Opinie klientów o montażu toalet",
+        "faq": "Jak często powinienem serwisować toaletę?"
+      },
+      "cities": {
+        "warszawa": {
+          "home": "Usunięcie usterek w Warszawie - szybka obsługa!",
+          "about": "Nasi specjaliści w Warszawie zamontują każdą toaletę.",
+          "projects": "Warszawskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Warszawskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "torun": {
+          "home": "Usunięcie usterek w Toruniu - szybka obsługa!",
+          "about": "Nasi specjaliści w Toruniu zamontują każdą toaletę.",
+          "projects": "Toruńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Toruńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "gdynia": {
+          "home": "Montaż toalety w Gdyni - szybka obsługa!",
+          "about": "Nasi specjaliści w Gdyni zamontują każdą toaletę.",
+          "projects": "Gdyńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Gdyńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        }
+      }
+    },
+    "renowacja_toalety": {
+      "name": "Renowacja toalety",
+      "slug": "montaz_toalety",
+      "content": {
+        "home": "Profesjonalny Renowacja toalety!",
+        "about": "Dokładny i szybki montaż toalet.",
+        "projects": "Zobacz nasze realizacje montażu toalet!",
+        "orderUs": "Zamów usługę montażu toalety już teraz!",
+        "reviews": "Opinie klientów o montażu toalet",
+        "faq": "Jak często powinienem serwisować toaletę?"
+      },
+      "cities": {
+        "warszawa": {
+          "home": "Renowacja toalety w Warszawie - szybka obsługa!",
+          "about": "Nasi specjaliści w Warszawie zamontują każdą toaletę.",
+          "projects": "Warszawskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Warszawskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "torun": {
+          "home": "Renowacja toalety w Toruniu - szybka obsługa!",
+          "about": "Nasi specjaliści w Toruniu zamontują każdą toaletę.",
+          "projects": "Toruńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Toruńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        },
+        "gdynia": {
+          "home": "Montaż toalety w Gdyni - szybka obsługa!",
+          "about": "Nasi specjaliści w Gdyni zamontują każdą toaletę.",
+          "projects": "Gdyńskie realizacje montażu toalet.",
+          "orderUs": "Zarezerwuj usługę montażu toalety.",
+          "reviews": "Gdyńskie opinie o naszych usługach.",
+          "faq": "Czy używacie ekologicznych materiałów?"
+        }
+      }
+    }
+  },
   "cities": {}
 }
