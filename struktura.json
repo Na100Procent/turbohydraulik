@@ -1,5 +1,5 @@
 {
- "services": {
+  "services": {
     "zmywanie_kranu": {
       "name": "Zmywanie kranu",
       "slug": "zmywanie_kranu",
@@ -37,6 +37,7 @@
           "faq": "Czy używacie ekologicznych środków?"
         }
       }
-    },
+    }
+  },
   "cities": {}
 }
