@@ -1,33 +1,4 @@
 {
-  "services": {
-    "wymiana_kranu": {
-      "title": "Wymiana kranu",
-      "content": "<h2>Profesjonalna Wymiana Baterii</h2><p>Oferujemy kompleksowe usługi wymiany baterii, zapewniając jednocześnie szybkie i niezawodne naprawy. Nasz zespół ekspertów zajmie się każdym aspektem wymiany, byś mógł cieszyć się pełną funkcjonalnością swojego sprzętu.</p><p>Nasze doświadczenie oraz zaawansowane techniki sprawiają, że wymiana baterii przebiega sprawnie i bezproblemowo. Skontaktuj się z nami, aby uzyskać więcej informacji na temat naszych usług!</p>",
-      "ser_hero_text": "<strong>Nie czekaj! Skorzystaj z naszych usług wymiany baterii już dziś!</strong>",
-      "ser_service_h2": "Wymiana Baterii",
-      "ser_service_text_short": "Profesjonalna wymiana baterii w atrakcyjnej cenie.",
-      "ser_service_h3_1": "Naprawa",
-      "ser_service_text_1": "Specjalizujemy się w naprawach, które są szybkie i skuteczne. Nasz zespół dba o jakość, aby Twój sprzęt działał jak nowy.",
-      "ser_service_h3_2": "Wymiana",
-      "ser_service_text_2": "Oferujemy wymianę baterii po przystępnych cenach, dostosowaną do Twoich potrzeb i oczekiwań.",
-      "ser_service_h3_3": "Montaż",
-      "ser_service_text_3": "Zapewniamy fachowy montaż baterii, który uwzględnia wszelkie standardy bezpieczeństwa.",
-      "ser_service_h3_4": "Urwanie",
-      "ser_service_text_4": "Nasze usługi obejmują również prace związane z urwaniem, które mogą być wymagane przy wymianie baterii.",
-      "ser_testimonials_h2": "Opinie klientów o usłudze w mieście",
-      "ser_testimonials_h3": "Sprawdź, co mówią nasi zadowoleni klienci o naszych usługach wymiany baterii",
-      "ser_testimonials_text_1": "Nasi klienci chwalą szybkość i jakość naszych usług. Zaufaj profesjonalistom!",
-      "ser_testimonials_text_2": "Twoja opinia jest dla nas ważna! Podziel się swoimi doświadczeniami i pomóż innym wybrać sprawdzonego specjalistę do wymiany baterii.",
-      "ser_aboutus_h2": "Turbo Hydraulik – Profesjonalna wymiana baterii",
-      "ser_aboutus_text": "Turbo Hydraulik oferuje wysokiej jakości usługi związane z wymianą baterii. Z każdym zleceniem podchodzimy indywidualnie, a nasz wykwalifikowany zespół zapewnia, że wymiana przebiegnie płynnie i bezproblemowo. <h3>Profesjonalizm i doświadczenie</h3> Dzięki naszemu długoletniemu doświadczeniu w branży, możesz mieć pewność, że usługa będzie wykonana na najwyższym poziomie. Turbo Hydraulik to synonim jakości w wymianie baterii, dbamy o zadowolenie naszych klientów i Będziemy czekać na Twoje zlecenie!",
-      "ser_steps_h2": "Jak zamówić wymianę baterii w 3 krokach?",
-      "ser_aboutusnumbers_h2": "Nasze liczby mówią same za siebie.",
-      "ser_aboutusnumbers_text": "Lata doświadczenia, setki zadowolonych klientów, tysiące wykonanych wymian baterii.",
-      "ser_pricelist_h2": "Cennik wymiany baterii",
-      "ser_portfolio_h2": "Ostatnio zrealizowane prace - wymiana baterii",
-      "ser_faq_h2": "Odpowiadamy na najczęstsze pytania dotyczące naszych usług wymiany baterii",
-      "ser_faq_text": "Zapewniamy odpowiedzi na najczęściej zadawane pytania, aby ułatwić Ci podjęcie decyzji."
-    }
-  },
+  "services": {},
   "cities": {}
 }
