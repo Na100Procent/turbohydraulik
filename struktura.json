@@ -1,1 +1,4 @@
-{"error":"Service kompleksowy-serwis-toalet or city add data missing or invalid in input"}
+{
+  "services": {},
+  "cities": {}
+}
